@@ -3,6 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Computer Image Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 50px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #35424a;
+            border-radius: 8px;
+        }
+        h1 
+            color: #35424a;
+
     <title>My Simple Website</title>
     <style>
         body {
@@ -36,10 +54,21 @@
             position: absolute;
             bottom: 0;
             width: 100%;
+
         }
     </style>
 </head>
 <body>
+
+
+<h1>Picture of a Computer</h1>
+<img src="https://via.placeholder.com/400x300?text=Computer+Image" alt="Computer">
+
+<p>This is a picture of a computer.</p>
+
+</body>
+</html>
+
 
 <header>
     <h1>Welcome to My Website</h1>
@@ -73,3 +102,4 @@
 
 </body>
 </html>
+
